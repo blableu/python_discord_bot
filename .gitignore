@@ -1,0 +1,10 @@
+# Ignores all files in the data folder (personal folder)...
+data/
+# EXCEPT the stockage file.
+!data/stockage.json
+
+# Ignores all files in the bot_env folder (personal folder)
+bot_env/
+
+# Ignores the .vscode folder
+.vscode/
